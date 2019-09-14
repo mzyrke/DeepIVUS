@@ -4,4 +4,4 @@ Virtual Histology - Intravascular Ultrasound (VH-IVUS) is an imaging modality th
 
 DeepIVUS aims to utilize the power of AI to analyze the VH-IVUS images and predict the risk of adverse cardiac events in patients suffering from atherosclerosis.
 
-![]({{site.url}}{{site.baseurl}}/assets/b2f.png)
+![]({{site.url}}{{site.baseurl}}/assets/B2F.png)
