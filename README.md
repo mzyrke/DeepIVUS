@@ -4,4 +4,4 @@ Virtual Histology - Intravascular Ultrasound ([VH-IVUS](https://www.ahajournals.
 
 DeepIVUS aims to utilize the power of AI to analyze the VH-IVUS images and predict the risk of adverse cardiac events in patients suffering from atherosclerosis.
 
-![]({{site.url}}{{site.baseurl}}/assets/B2F.png)
+![]({{site.url}}{{site.baseurl}}/assets/B2F.gif)
